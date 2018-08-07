@@ -1,31 +1,30 @@
-<!doctype html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"  integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-
-</head>
-<body>
-<div class="container">
-<h2>Recent news for Chelsea</h2><div class_="news"><p id="post">EVERTON MEDICAL
+KOVACIC TO
+CHELSEA?
+Mateo Kovacic is
+closing on a season-long loan to Chelsea ,
+reports Marca . Kovacic trained with Real Madrid on
+Monday but after speaking with the club he has decided he will not train or
+wear their shirt again, for the time being. He publicly announced his desire to change clubs during the World Cup and has
+asked the club to leave on three occasions. The club had declared Kovacic non-transferrable and the
+player, who is determined to leave the Bernabeu in search of regular first-team
+football, did not understand their stance. But Marca claim
+Madrid have given up with their efforts to keep Kovacic and the Croatia
+international is on the verge of joining Chelsea on a season-long loan.
+EVERTON MEDICAL
 FOR BERNARD
 Chelsea have lodged a late bid to sign Shakhtar Donetsk midfielder Bernard , according to Sky sources , but the Brazilian is on his
 way to Everton and is expected on
 Merseyside for a medical in the next 48-hours. Bernard’s move is subject to that medical and a work
 permit being granted. Sky Sports News understands that AC Milan were convinced Bernard was on his way to the San
 Siro, and another source tells us Atletico Madrid also pushed hard to sign him,
-while West Ham were also interested.</p><p id="post">BUTLAND TO THE BRIDGE?
+while West Ham were also interested.
+BUTLAND TO THE BRIDGE?
 Stoke goalkeeper Jack Butland is Chelsea 's top target to replace Thibaut
 Courtois if he leaves this summer, according to Sky sources. Sky Sports News understands there has already been informal contact between
 Chelsea and Stoke over the England international. It is understood the Sky Bet Championship side would be prepared
 to allow Butland to leave for around £30m - but want any deal to be resolved
-quickly.</p><p id="post">HAS ANYONE SEEN COURTOIS?
+quickly.
+HAS ANYONE SEEN COURTOIS?
 Chelsea are facing a race against time to find a replacement for goalkeeper Thibaut Courtois , who seems intent
 on forcing through a move to Real Madrid . The Belgium international failed to report back to Chelsea
 training on Monday as scheduled, where head coach Maurizio Sarri was expecting
@@ -33,7 +32,8 @@ to hold face-to-face talks with Courtois about his future. Over the weekend Cour
 move to Madrid to be closer to his family. Courtois has one year left on his contract at Stamford Bridge and
 is valued by Real at £32m, but Sky Sports
 News understands that Chelsea will not resume talks with the European
-champions until they find a suitable replacement.</p><p id="post">TRANSFER
+champions until they find a suitable replacement.
+TRANSFER
 HEADLINES
 Utd reject Barca's Pogba swap offer Rio
 warns United over Pogba exit Hart joins Burnley in £3.5m deal Lerma
@@ -41,7 +41,8 @@ to undergo Cherries medical West
 Ham close on Perez deal Courtois absent from Chelsea training Chelsea to target Jack Butland Sky Germany: Utd approach Boateng Everton set to land Bernard Who
 still needs what? Papers:
 Chelsea in for Fekir Transfer
-Talk podcast: Download Premier League ins and outs Fantasy Football: Win £50k</p><p id="post">TRANSFER HEADLINES
+Talk podcast: Download Premier League ins and outs Fantasy Football: Win £50k
+TRANSFER HEADLINES
 As we head towards the close of the day, here are a look at
 the top transfer headlines: Manchester United have rejected an offer for Paul Pogba from Barcelona of £45m plus Yerry Mina and Andre Gomes, according to Sky in Italy. Chelsea goalkeeper Thibaut Courtois did not show up for training
 on Monday as had been expected. Chelsea will make Stoke goalkeeper Jack Butland their top target
@@ -49,11 +50,9 @@ if goalkeeper Thibaut Courtois leaves the club. M anchester United have approach
 centre-back Jerome Boateng , according to Sky in Germany. Everton are close to completing the signing of Brazilian winger Bernard. Newcastle have completed the season-long loan signing of Salomon
 Rondon from West Brom with Dwight Gayle going in the other direction. Aston Villa and Middlesbrough are fighting it out for the
 services of Bristol City defender Joe Bryan , according to Sky sources. Borussia Dortmund have agreed to sign Belgium international Axel
-Witsel from Chinese side Tianjin Quanjian.</p><p id="post">REAL WANT ALONSO
+Witsel from Chinese side Tianjin Quanjian.
+REAL WANT ALONSO
 Real Madrid are set to target Chelsea defender Marcos Alonso , according to Don
 Balon. New
 manager Julen Lopetegui is said to want the Spain international at the
-Bernabeu and has asked the club to make a move.</p></div>
-</div>
-</body>
-</html>
+Bernabeu and has asked the club to make a move.

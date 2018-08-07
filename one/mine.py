@@ -6,6 +6,7 @@ import requests
 from bs4 import BeautifulSoup as BS
 from yattag import Doc
 import webbrowser
+import os
 
 def get_source():
 	
@@ -20,17 +21,17 @@ def get_source():
 def generate_html(search, news):
 		#Generate HTML PAGE
 
-		doc, tag, text = Doc().tagtext()
-		with tag("h2"):
-			text("Recent news for %s" % search)
-		with tag('div', class_="news"):			    
-		    for n in news:
+	doc, tag, text = Doc().tagtext()
+	with tag("h2"):
+		text("Recent news for %s" % search)
+	with tag('div', class_="news"):			    
+		for n in news:
 			with tag('p', id = "post"):
-			    text(n)
+				text(n)
 
-		result = doc.getvalue()
-		
-		return result
+	result = doc.getvalue()
+
+	return result
 
 def get_news(search):
 	sections = get_source()
@@ -43,7 +44,7 @@ def get_news(search):
 		if search in t:
 			br.append(t)
 
-	br_lines = [x.encode('utf-8').replace("BREAKING NEWS", "BREAKING NEWS\n") for x in br]
+	br_lines = [x.replace("BREAKING NEWS", "BREAKING NEWS\n") for x in br]
 	br_one = "\n".join(br_lines)
 	html_text = generate_html(search, br_lines)
 	
@@ -56,9 +57,11 @@ def get_news(search):
 		f.write(br_one)
 		f.close()
 	
-	#Save html	
-	hf = open("base.html", "r")	
-	with open(search + ".html", "w") as f:
+	#Save html
+	filename = search + ".html"
+	path = os.path.join(os.path.dirname(os.path.abspath(__file__)), filename)
+	hf = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "base.html"), "r")	
+	with open(filename, "w") as f:
 		f.write(hf.read().replace("{{ block }}", html_text))
 		hf.close()
 		f.close()
