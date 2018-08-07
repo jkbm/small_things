@@ -1,0 +1,1 @@
+{"handlers": {"h": {"formatter": "f", "class": "logging.StreamHandler", "level": 10}, "file": {"mode": "w", "formatter": "f", "class": "logging.FileHandler", "filename": "mplog.log"}}, "version": 1, "root": {"level": 10, "handlers": ["h", "file"]}, "formatters": {"f": {"format": "%(asctime)s %(name)-12s %(levelname)-8s %(message)s"}}}
